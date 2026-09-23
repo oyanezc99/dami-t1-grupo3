@@ -1,4 +1,4 @@
-package pe.edu.cibertec.app_examen_t1_grupo5
+package pe.edu.cibertec.app_examen_t1_grupo3
 
 import android.os.Bundle
 import android.view.View
