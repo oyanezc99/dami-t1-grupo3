@@ -12,11 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Appexament1grupo3">
         <activity
-            android:name=".Pregunta1Activity"
-            android:exported="true"
-            android:windowSoftInputMode="adjustResize" />
-        <activity
-            android:name="pe.edu.cibertec.app_examen_t1_grupo5.Pregunta5Activity"
+            android:name=".MainActivity"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
@@ -26,8 +22,32 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
-            android:exported="false"
+            android:name=".Pregunta1Activity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Pregunta2Activity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Pregunta3Activity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Pregunta4Activity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Pregunta5Activity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Pregunta6Activity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Pregunta7Activity"
+            android:exported="true"
             android:windowSoftInputMode="adjustResize" />
     </application>
 
