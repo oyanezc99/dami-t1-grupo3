@@ -6,4 +6,11 @@
     <string name="titulo_p6">Soporte Técnico - Horas Consumidas</string>
     <string name="hint_horas_p6">Ingrese las horas de soporte requeridas</string>
     <string name="btn_calcular_p6">Calcular Facturación</string>
+    <string name="question_7_title">Pregunta 7: Devolución tardía</string>
+    <string name="question_7_description">Ingresa los días de retraso de la prenda. Tienes 2 días de gracia.</string>
+    <string name="days_late_hint">Días de retraso</string>
+    <string name="days_input_error">Ingresa un número entero de días igual o mayor que 0.</string>
+    <string name="calculate_penalty">Calcular penalidad</string>
+    <string name="no_penalty">Devolución aceptada sin penalidad.</string>
+    <string name="penalty_result">Días de atraso: %1$d\nExceso computable: %2$d\nPenalidad total por retraso: %3$s</string>
 </resources>
