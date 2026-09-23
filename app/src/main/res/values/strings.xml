@@ -3,4 +3,7 @@
     <string name="textotitulopregunta5">FISCALIZACION DE DECIBELES (P5)</string>
     <string name="textdecibelios">Ingrese los decibelios medidos (dB)</string>
     <string name="textbtncalcular">EXAMINAR NIVEL SONORO</string>
+    <string name="titulo_p6">Soporte Técnico - Horas Consumidas</string>
+    <string name="hint_horas_p6">Ingrese las horas de soporte requeridas</string>
+    <string name="btn_calcular_p6">Calcular Facturación</string>
 </resources>
