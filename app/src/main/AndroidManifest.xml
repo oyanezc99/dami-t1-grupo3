@@ -14,6 +14,10 @@
         <activity
             android:name=".Pregunta1Activity"
             android:exported="true"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="pe.edu.cibertec.app_examen_t1_grupo5.Pregunta5Activity"
+            android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

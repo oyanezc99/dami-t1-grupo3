@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">app-examen-t1-grupo3</string>
+    <string name="textotitulopregunta5">FISCALIZACION DE DECIBELES (P5)</string>
+    <string name="textdecibelios">Ingrese los decibelios medidos (dB)</string>
+    <string name="textbtncalcular">EXAMINAR NIVEL SONORO</string>
 </resources>
